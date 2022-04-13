@@ -1,3 +1,3 @@
 # Zapt Challenges
 
-Desafios da primeira etapa do processo seletivo da Zapt Tech.
+Desafios que resolvi durante a primeira etapa do processo seletivo da Zapt Tech.
